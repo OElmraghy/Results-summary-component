@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-(images/Screenshot.png)
+![Preview](images/Screenshot.png?raw=true)
 
 ### Links
 
