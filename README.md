@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-(images/Screenshot.png)
+![Preview](images/Screenshot.png?raw=true)
 
 ### Links
 
-- Solution URL: (https://github.com/OElmraghy/Product-preview-card)
-- Live Site URL: (https://oelmraghy.github.io/Product-preview-card/)
+- Solution URL: (https://github.com/OElmraghy/Results-summary-component)
+- Live Site URL: (https://oelmraghy.github.io/Results-summary-component/)
 
 ## My process
 
